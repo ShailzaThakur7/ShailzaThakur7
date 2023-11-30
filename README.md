@@ -2,8 +2,7 @@
 
 Code poet creating symphonies of logic and creativity. 🎶💻
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shailzaaaa.a) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/shailzathakur7)
-![Portfolio](https://shailzathakur.vercel.app/)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shailzaaaa.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailza-thakur-50bab221b/)![Portfolio(https://img.shields.io/badge/Portfolio-8A2BE2)](https://shailzathakur.vercel.app/)
 
 ## About Me
 Passionate about exploring new technologies and always up for tech conversations!
